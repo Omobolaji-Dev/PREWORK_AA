@@ -12,7 +12,8 @@ echo "--------------------------------"
 echo "In DevOps, we automate processes,"
 echo "collaborate effectively, and ensure"
 echo "smooth software delivery. Let's learn together!"
-![This is the screenshot of the vim](./Screenshot%20(454).png)
+
+![This is the screenshot of the vim](./images/Screenshot%20(455).png)
 
 # THE SECOND TASK FOR SERVER MONITORING AND REPORTING
 ## we ran the following commands
