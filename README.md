@@ -31,3 +31,11 @@ echo "smooth software delivery. Let's learn together!"
 ![this is from the server showing it](./images/Screenshot%20(459).png)
 
 
+# ADDITIONAL TASK
+
+## We created temperature template to generate weather report.
+
+![This is the bash script](./images/Screenshot%20(462).png)
+![this is the running output](./images/Screenshot%20(461).png)
+
+**The End**
