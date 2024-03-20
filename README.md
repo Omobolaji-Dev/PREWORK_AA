@@ -1,6 +1,6 @@
 # PREWORK_AA
 Assignment on Documentation and using bash scripting
-# MY FIRST SCRIPT
+# MY BASH SCRIPT
 Simple bash script. my_firstscript.sh
 
 #!/bin/bash
